@@ -1,0 +1,45 @@
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.exe
+C:\Users\trinh\source\repos\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+C:\Users\trinh\source\repos\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.dll
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\trinh\source\repos\WebAutomation\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\trinh\source\repos\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+C:\Users\trinh\source\repos\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+C:\Users\trinh\source\repos\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.dll
+C:\Users\trinh\source\repos\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.exe
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.dll
+D:\Dropbox\Library\SeleniumWebAutomation 20200421\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.exe
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.deps.json
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.json
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.runtimeconfig.dev.json
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.dll
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebAutomation.pdb
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebDriver.dll
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.csprojAssemblyReference.cache
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfoInputs.cache
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.AssemblyInfo.cs
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CopyComplete
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.dll
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.pdb
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.genruntimeconfig.cache
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+F:\Third year\HK6\B2C\Lab 3 - Web Crawler\Source Code\WebAutomation\obj\Debug\netcoreapp3.1\WebAutomation.csproj.CoreCompileInputs.cache

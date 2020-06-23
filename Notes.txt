@@ -1,0 +1,7 @@
+Slide: https://docs.google.com/presentation/d/1AAUTdDy57GESV9spLX2FVxob9tFlZ_daO7ZiEV29MCk/edit?usp=sharing
+
+References:
+- https://www.selenium.dev/projects/
+- Google Chrome DevTools
+- Selenium WebDriver
+- Selenium Chrome WebDriver
